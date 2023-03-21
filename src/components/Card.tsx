@@ -12,10 +12,10 @@ const Card = () => {
           Koray Okumus <span className="font-normal text-[#98A2B3]">Highest Bidder</span>
         </p>
       </div>
-      <div>
+      <div className="flex flex-col gap-4">
         <p className="font-semibold text-[#344054]">Apple MacBook Air 13" M1 Chip 8GB 256GB 2020 Model - Rose Gold</p>
-        <p>
-          Current Bid: <span>₦795,000</span>
+        <p className="font-normal text-[#344054]">
+          Current Bid: <span className="font-bold text-[#344054]">₦795,000</span>
         </p>
       </div>
       <div className="border-t border-[#EAECF0] "></div>
