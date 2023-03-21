@@ -21,9 +21,8 @@ const Banner = () => {
         </div>
         <button className="flex flex-row gap-2 p-2 border rounded-lg drop-shadow-sm bg-white">
           <ThumbUpOffAltIcon />
-          <p className="text-[#344054]">Accept Invite</p>
+          <p className="text-[#344054] font-semibold">Accept Invite</p>
         </button>
-        <div className="border-t border-[#EAECF0] mx-6"></div>
       </div>
     </div>
   );
