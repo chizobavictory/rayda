@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Rayda Assessment
+
+This project was built using React, Typescript, Tailwind CSS, Material UI and RTK Query.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
