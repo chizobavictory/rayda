@@ -2,6 +2,14 @@
 
 This project was built using React, Typescript, Tailwind CSS, Material UI and RTK Query.
 
+## Steps to run Code
+
+Clone the repo to your local machine
+
+Run yarn install or npm install to install all the dependencies
+
+Run yarn start
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
