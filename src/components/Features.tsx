@@ -11,9 +11,9 @@ const Features = () => {
         </button>
       </div>
       <div className="border-t border-[#EAECF0] py-4"></div>
-      <div>
-        <Card />
-      </div>
+        <div className="ml-10">
+          <Card />
+        </div>
     </div>
   );
 };

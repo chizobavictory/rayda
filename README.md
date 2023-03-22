@@ -2,6 +2,8 @@
 
 This project was built using React, Typescript, Tailwind CSS, Material UI and RTK Query.
 
+Link to the hosted site: https://rayda-assessement-chizoba-victory.netlify.app/
+
 ## Steps to run Code
 
 Clone the repo to your local machine

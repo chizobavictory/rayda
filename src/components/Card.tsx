@@ -16,7 +16,7 @@ const Card = () => {
       {data?.data?.map((item) => (
         <div className="border p-4 inline-block rounded-lg space-y-4 w-[300px] m-2">
           <div>
-            <img src={item.image} alt="laptop" />
+            <img src={item.image} alt="product" />
           </div>
           <div className="flex flex-row items-center gap-2">
             <img src="/images/Avatar.png" alt="avatar" />
