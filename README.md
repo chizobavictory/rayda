@@ -1,7 +1,8 @@
 # Rayda Assessment
 
 This project was built using React, Typescript, Tailwind CSS, Material UI and RTK Query.
-Link to the Figma design: https://www.figma.com/file/wFaPLRDYDhPLNVHzBnOo2a/Untitled?node-id=1-19950&t=VSsiA3QNABez2Qsl-0
+
+## Link to the Figma design: https://www.figma.com/file/wFaPLRDYDhPLNVHzBnOo2a/Untitled?node-id=1-19950&t=VSsiA3QNABez2Qsl-0
 
 Link to the hosted site: https://rayda-assessement-chizoba-victory.netlify.app/
 
